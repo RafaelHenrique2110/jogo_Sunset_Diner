@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc8316cd0d3be44a98ae26639c23907, type: 3}
+  m_Name: IgluHouse
+  m_EditorClassIdentifier: 
+  id: 2
+  imagem: {fileID: 21300000, guid: b15a3072b95f0b04aa08fa9a277d53c7, type: 3}
+  price: 400
+  nome: IGLUHOUSE
+  comidas:
+  - {fileID: 11400000, guid: 6a9c724f17a805c4d8a5281caa389018, type: 2}
+  - {fileID: 11400000, guid: 7b737459b4880224c98d83ec6f10080a, type: 2}
+  quantidadeComidas: 1401
+  material: {fileID: 2100000, guid: 8dea31c592d2fcf468d738eadd158af8, type: 2}

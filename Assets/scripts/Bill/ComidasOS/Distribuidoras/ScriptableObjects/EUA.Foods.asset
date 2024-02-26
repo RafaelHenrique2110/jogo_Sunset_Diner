@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc8316cd0d3be44a98ae26639c23907, type: 3}
+  m_Name: EUA.Foods
+  m_EditorClassIdentifier: 
+  id: 4
+  imagem: {fileID: 21300000, guid: 438d29fc0eb62a34b822a77ee6f55b3e, type: 3}
+  price: 425
+  nome: Eua Foods
+  comidas:
+  - {fileID: 11400000, guid: c96d4cb5cda72c540bdcabd74c67dab8, type: 2}
+  - {fileID: 11400000, guid: 277ace0623e90e04795e30a0b39b6ca9, type: 2}
+  - {fileID: 11400000, guid: 9b05427ef7e33a744bd33e12e187969d, type: 2}
+  quantidadeComidas: 0a0a0a
+  material: {fileID: 2100000, guid: b35e0121b8d8e1840970dae282fcb3c5, type: 2}

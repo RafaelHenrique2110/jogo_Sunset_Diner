@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc8316cd0d3be44a98ae26639c23907, type: 3}
+  m_Name: Jack&Spakie
+  m_EditorClassIdentifier: 
+  id: 8
+  imagem: {fileID: 21300000, guid: 86aed11dab90c7442a1c81ba19a9b745, type: 3}
+  price: 245
+  nome: Jack&Spakie
+  comidas:
+  - {fileID: 11400000, guid: c96d4cb5cda72c540bdcabd74c67dab8, type: 2}
+  - {fileID: 11400000, guid: 76e6e23c5a82206469dd0376d2f343d2, type: 2}
+  quantidadeComidas: 0c0a
+  material: {fileID: 2100000, guid: f093c14b749e92d4b9dca6572cc8e1df, type: 2}
